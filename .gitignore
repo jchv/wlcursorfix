@@ -1,0 +1,7 @@
+/.direnv
+/.build
+/.cache
+/compile_commands.json
+/result
+/result-*
+
